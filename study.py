@@ -1,11 +1,11 @@
 """学习进度分解系统。
 
 用法示例：
-	python t1.py create --title "Python 入门" --goal "能写出小项目" \
+	python study.py create --title "Python 入门" --goal "能写出小项目" \
 		--content "变量与类型\n条件与循环\n函数\n文件与异常"
-	python t1.py show
-	python t1.py update 1 --done
-	python t1.py update 2 --progress 60
+	python study.py show
+	python study.py update 1 --done
+	python study.py update 2 --progress 60
 """
 
 from __future__ import annotations

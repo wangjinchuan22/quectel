@@ -1,26 +1,26 @@
 {
-  "title": "Python 实战路线",
-  "goal": "能独立完成数据处理小项目",
-  "created_at": "2026-09-08T15:28:22",
+  "title": "看一本书",
+  "goal": "记录自己学习的知识",
+  "created_at": "2026-09-08T15:33:20",
   "stages": [
     {
       "id": 1,
       "title": "基础认知",
-      "objective": "完成 变量与类型, 条件与循环，为下一阶段建立基础。",
+      "objective": "完成 1, 2，为下一阶段建立基础。",
       "tasks": [
         {
           "id": 1,
-          "title": "掌握：变量与类型",
-          "description": "理解“变量与类型”的核心概念，并完成一个最小练习。",
-          "estimated_minutes": 45,
+          "title": "掌握：1",
+          "description": "理解“1”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 25,
           "progress": 100,
           "done": true
         },
         {
           "id": 2,
-          "title": "掌握：条件与循环",
-          "description": "理解“条件与循环”的核心概念，并完成一个最小练习。",
-          "estimated_minutes": 45,
+          "title": "掌握：2",
+          "description": "理解“2”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 25,
           "progress": 0,
           "done": false
         }
@@ -29,21 +29,36 @@
     {
       "id": 2,
       "title": "核心练习",
-      "objective": "完成 函数, 文件与异常，为下一阶段建立基础。",
+      "objective": "完成 3, 4，为下一阶段建立基础。",
       "tasks": [
         {
           "id": 3,
-          "title": "掌握：函数",
-          "description": "理解“函数”的核心概念，并完成一个最小练习。",
-          "estimated_minutes": 30,
+          "title": "掌握：3",
+          "description": "理解“3”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 25,
           "progress": 0,
           "done": false
         },
         {
           "id": 4,
-          "title": "掌握：文件与异常",
-          "description": "理解“文件与异常”的核心概念，并完成一个最小练习。",
-          "estimated_minutes": 45,
+          "title": "掌握：4",
+          "description": "理解“4”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 25,
+          "progress": 0,
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "综合应用",
+      "objective": "完成 5，为下一阶段建立基础。",
+      "tasks": [
+        {
+          "id": 5,
+          "title": "掌握：5",
+          "description": "理解“5”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 25,
           "progress": 0,
           "done": false
         }
