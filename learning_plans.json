@@ -1,0 +1,53 @@
+{
+  "title": "Python 实战路线",
+  "goal": "能独立完成数据处理小项目",
+  "created_at": "2026-09-08T15:28:22",
+  "stages": [
+    {
+      "id": 1,
+      "title": "基础认知",
+      "objective": "完成 变量与类型, 条件与循环，为下一阶段建立基础。",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "掌握：变量与类型",
+          "description": "理解“变量与类型”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 45,
+          "progress": 100,
+          "done": true
+        },
+        {
+          "id": 2,
+          "title": "掌握：条件与循环",
+          "description": "理解“条件与循环”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 45,
+          "progress": 0,
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "核心练习",
+      "objective": "完成 函数, 文件与异常，为下一阶段建立基础。",
+      "tasks": [
+        {
+          "id": 3,
+          "title": "掌握：函数",
+          "description": "理解“函数”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 30,
+          "progress": 0,
+          "done": false
+        },
+        {
+          "id": 4,
+          "title": "掌握：文件与异常",
+          "description": "理解“文件与异常”的核心概念，并完成一个最小练习。",
+          "estimated_minutes": 45,
+          "progress": 0,
+          "done": false
+        }
+      ]
+    }
+  ]
+}
